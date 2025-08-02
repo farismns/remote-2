@@ -12,5 +12,11 @@
         <li>Heri 132123</li>
         <li>Roy : 384723</li>
     </ul>
+
+    <h2>Data peserta</h2>
+    <ul>
+        <li>Achmad : 879533</li>
+        <li>Bima : 980463</li>
+    </ul>
 </body>
 </html>
